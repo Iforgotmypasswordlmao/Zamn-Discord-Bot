@@ -1,5 +1,5 @@
 # Zamn-Discord-Bot
-A discord bot for making custom ZAMN😍 images
+A discord bot for making custom ZAMN😍
 ![image](https://github.com/user-attachments/assets/549ebd6e-2080-419f-ac7b-ae3d7a10aa61)
 
 ## Installation
