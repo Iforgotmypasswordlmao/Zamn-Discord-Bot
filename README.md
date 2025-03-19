@@ -19,6 +19,6 @@ python bot.py
 ```
 
 ## Usage 
-To use the bot, add it to the server and type /zamnify
+To use the bot, add it to the server and type /zamnify   
 <br>
 ![image](https://github.com/user-attachments/assets/0b7bbded-687d-4ff5-b27b-0a06d3190f83)
